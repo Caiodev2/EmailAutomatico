@@ -1,6 +1,8 @@
 # 📧 Bot de Envio de E-mails Automáticos com Python
 
-Este é um projeto simples que fiz para aprendizagem de automação com Python que permite enviar e-mails automaticamente de forma personalizada, utilizando a biblioteca `smtplib` e `email.message`.
+Este é um projeto simples que fiz para aprendizagem de automação com Python que permite enviar e-mails automaticamente de forma personalizada, utilizando a biblioteca `smtplib` e `email.message`. A ideia desse projeto é expandir ele de um nível simples para níveis maiores como: Envio programado, utilização de IA para criar mensagens, anexar arquivos, ler planilhas com lista de contatos e enviar e-mail, etc.
+
+
 
 Você pode:
 - Enviar e-mails para qualquer destinatário
